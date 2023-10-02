@@ -9,7 +9,8 @@ function alternarModal() {
 
 botaoTrailer.addEventListener("click", () =>{
     alternarModal();
-    video.setAttribute("src", "https://www.youtube.com/embed/Cb4WV4aXBpk");
+    video.setAttribute("src", "https://www.youtube.com/embed/d161xEhp4Ec");
+    d161xEhp4Ec
 } );
 
 botaoFecharModal.addEventListener("click", () =>{
