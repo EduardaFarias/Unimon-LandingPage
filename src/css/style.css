@@ -31,7 +31,7 @@ body{
 }
 
 .cabecalho nav li a:hover{
-    background-color: #d5011d;
+    background-color: #ae54ef;
 }
 
 .container{
@@ -41,6 +41,10 @@ body{
     align-items: center;
     height: calc(100vh - 132px);
     padding: 0 30px 30px;
+}
+
+.container .pokemons-img{
+    max-width: 500px;
 }
 
 .container .imagem-titulo{
@@ -55,7 +59,7 @@ body{
 }
 
 .container .botao-trailer{
-    background-color: #ff0021;
+    background-color: #ae54ef;
     color:#ffffff;
     padding: 15px;
     font-size: 18px;
